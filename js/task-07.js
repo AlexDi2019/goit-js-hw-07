@@ -5,7 +5,7 @@
 
 // function onChangeSizeText(event) {
 //     const fontSize = Number(event.currentTarget.value)
-//     textEl.setAttribute("style", `font-size: ${fontSize}`)
+//     textEl.setAttribute("style", font-size: ${fontSize})
 // };
 // слово просто исчезает и появляется, размер не меняется...
 const refs = {
